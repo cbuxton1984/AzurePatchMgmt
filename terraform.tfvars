@@ -40,3 +40,8 @@ aa_sku = "Basic"
 # Update Management
 
 um_solution_name = "UpdateMgmt-demo"
+
+# Credentials
+
+admuser = "chris"
+admpass = "T{3~C]+d<u-CWJ._"
